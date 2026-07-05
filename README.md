@@ -2,10 +2,10 @@
 
 ## Team Members
 
-* Constantine Akas
-* [Member 2]
-* [Member 3]
-* [Member 4]
+* Constantine Akas Chidiebere
+* Regina Anthony Majura
+* Keyla Nyacyesa Bineza
+* Ndunge Mutheu Mbithi 
 
 ---
 
