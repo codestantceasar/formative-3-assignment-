@@ -60,15 +60,17 @@ Tasks:
 
 ## Part 3: Manual Gradient Descent
 
-Tasks:
+Model: ŷ = (m1·x1) × (m2·x2) + b (multiplicative form, computed via matrix operations)
 
-* Prediction calculation
-* Mean Squared Error computation
-* Chain Rule derivation
-* Gradient calculations
-* Parameter updates
-* Iteration tracking
+Tasks Completed:
 
+* Predicted value (ŷ) calculation for both data points
+* Error calculation (e = ŷ - y)
+* Full derivation of MSE cost function gradient using chain rule
+* Gradients derived: dJ/dm1, dJ/dm2, dJ/db1, dJ/db2
+* 4 iterations of gradient descent (Iteration 0–3), one per group member
+* Intermediate results (predictions, errors, gradients, updated parameters) shown after every iteration
+* Trend analysis: confirmed decreasing error and cost function (convergence)
 ---
 
 ## Part 4: Gradient Descent in Code
@@ -119,13 +121,15 @@ Formative3/
 
 Completed:
 
-* Part 1 (EM Algorithm)
-
+ * Part 1 (EM Algorithm)
+ * Part 3 (Manual Gradient Descent)
+ 
 In Progress:
 
 * Part 2 (Bayesian Probability)
-* Part 3 (Manual Gradient Descent)
 * Part 4 (Gradient Descent in Code)
+
+
 
 ---
 
