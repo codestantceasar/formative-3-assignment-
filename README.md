@@ -247,9 +247,19 @@ Formative3/
 
 ├── README.md
 
-├── manual_calculations/
+├── data/
+│ └── IMDB Dataset.csv
 
-└── contributions/
+└── part3/
+│ └── Iteration 0.pdf
+│ └── Iteration 1 (Constantine).pdf
+│ └── Iteration3.pdf
+│ └── Number 1.pdf
+│ └── Number 2 (1).pdf
+│ └── Number 2 (1).pdf
+│ └──Number 7.pdf
+
+
 
 ---
 
